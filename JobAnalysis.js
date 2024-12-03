@@ -20,7 +20,7 @@ class Job {
             <strong>Level:</strong> ${this.level}<br>
             <strong>Skill:</strong> ${this.skill}<br>
             <strong>Estimated Time:</strong> ${this.estimatedTime}<br>
-            <strong>Details:</strong> ${this.detail}<br>
+            <strong>Description:</strong> ${this.detail}<br>
             <strong>Posted:</strong> ${this.posted}<br>
             <a href="${this.pageLink}" target="_blank">View Job Page</a>
         `;
